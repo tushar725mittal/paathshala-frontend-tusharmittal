@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tushar725mittal.me/paathshala-frontend-tusharmittal",
   "name": "blog",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.3.2"
   }
 }
