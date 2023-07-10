@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/paathshala-frontend-tusharmittal/static/css/main.0c2279c7.css",
-    "main.js": "/paathshala-frontend-tusharmittal/static/js/main.2e299636.js",
+    "main.js": "/paathshala-frontend-tusharmittal/static/js/main.0f354f90.js",
     "static/js/787.f587e8d5.chunk.js": "/paathshala-frontend-tusharmittal/static/js/787.f587e8d5.chunk.js",
     "index.html": "/paathshala-frontend-tusharmittal/index.html",
     "main.0c2279c7.css.map": "/paathshala-frontend-tusharmittal/static/css/main.0c2279c7.css.map",
-    "main.2e299636.js.map": "/paathshala-frontend-tusharmittal/static/js/main.2e299636.js.map",
+    "main.0f354f90.js.map": "/paathshala-frontend-tusharmittal/static/js/main.0f354f90.js.map",
     "787.f587e8d5.chunk.js.map": "/paathshala-frontend-tusharmittal/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c2279c7.css",
-    "static/js/main.2e299636.js"
+    "static/js/main.0f354f90.js"
   ]
 }
